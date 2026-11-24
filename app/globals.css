@@ -1,0 +1,274 @@
+@import "tailwindcss";
+
+:root {
+  /* ── Base canvas ───────────────────────────────────────────── */
+  --bg-canvas: #faf8f5;
+  --bg-secondary: #f2eee8;
+  --bg-surface: #ffffff;
+  --bg-dark: #11110f;
+
+  /* ── Borders & surfaces ────────────────────────────────────── */
+  --border-hairline: #e6e0d8;
+  --border-strong: #d4cdc2;
+
+  /* ── Text hierarchy ────────────────────────────────────────── */
+  --text-primary: #191817;
+  --text-secondary: #57524c;
+  --text-muted: #77716a;
+
+  /* ── Accent palette ────────────────────────────────────────── */
+  --accent-bronze: #9a3412;
+  --accent-ink: #191817;
+
+  /* ── LUXEINDEX premium palette ─────────────────────────────── */
+  --champagne:    #e9d8c5;
+  --soft-blush:   #f3ddd7;
+  --dusty-rose:   #c98985;
+  --rosewood:     #9d5c59;
+  --burgundy:     #582f38;
+  --terracotta:   #a65a3e;
+  --warm-mocha:   #8a7165;
+  --olive:        #66745a;
+  --soft-sage:    #dce5d8;
+  --charcoal:     #25201e;
+  --cream:        #fffdf9;
+
+  /* ── Semantic tints ────────────────────────────────────────── */
+  --success-bg:      #f1f4ec;
+  --success-border:  #dbe4d3;
+  --success-text:    #33452f;
+  --amber-bg:        #fbf6ea;
+  --amber-border:    #eadfc8;
+  --amber-text:      #8a5a1e;
+
+  /* ── LUXEINDEX luxury depth system (additive) ───────────────── */
+  --lux-bg-void:       #141310;
+  --lux-bg-deep:       #1a1714;
+  --lux-bg-panel:      #1f1b18;
+  --lux-bg-surface:    #26211e;
+  --lux-border-soft:   #322c28;
+  --lux-border-mid:    #3f3833;
+  --lux-border-gold:   #b8976b;
+  --lux-text-primary:  #f4ece2;
+  --lux-text-secondary:#c9bba8;
+  --lux-text-muted:    #9a8c7d;
+  --lux-gold:          #b8976b;
+  --lux-gold-soft:     #d4b896;
+  --lux-blush:         #c98985;
+  --lux-blush-soft:    #e8b4ad;
+  --lux-sage:          #8ba374;
+  --lux-sage-deep:     #6b7f5e;
+  --lux-terracotta:    #a65a3e;
+  --lux-gradient-hero:
+    linear-gradient(160deg, #2a2420 0%, #1c1916 45%, #141310 100%);
+  --lux-gradient-gold:
+    linear-gradient(120deg, #b8976b 0%, #d4b896 50%, #b8976b 100%);
+  --lux-gradient-blush:
+    linear-gradient(135deg, #c98985 0%, #e8b4ad 50%, #c98985 100%);
+  --lux-shadow-soft: 0 1px 2px rgba(0,0,0,0.35);
+  --lux-shadow-card: 0 12px 40px -18px rgba(0,0,0,0.6);
+  --lux-shadow-gold: 0 8px 30px -10px rgba(184,151,107,0.45);
+  --lux-shadow-blush: 0 8px 30px -10px rgba(201,137,133,0.4);
+}
+
+@theme inline {
+  --color-background: var(--bg-canvas);
+  --color-foreground: var(--text-primary);
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-mono: var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, monospace;
+  --font-antonio: var(--font-antonio), sans-serif;
+  --font-manrope: var(--font-manrope), sans-serif;
+}
+
+html {
+  background-color: var(--bg-canvas);
+  color: var(--text-primary);
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-canvas);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Shimmer (preserved for skeleton loaders) ──────────────── */
+@keyframes editorial-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer-surface {
+  background: linear-gradient(
+    90deg,
+    #efeae2 25%,
+    #f7f4ee 50%,
+    #efeae2 75%
+  );
+  background-size: 200% 100%;
+  animation: editorial-shimmer 1.6s ease-in-out infinite;
+}
+
+/* ── Fernhollow scroll line (PRESERVED) ───────────────────── */
+@keyframes scroll-line-pulse {
+  0%, 100% { transform: scaleY(0.4); opacity: 0.45; }
+  50%      { transform: scaleY(1);   opacity: 0.95; }
+}
+
+.fernhollow-scroll-line {
+  transform-origin: top center;
+  animation: scroll-line-pulse 2.4s cubic-bezier(0.23, 1, 0.32, 1) infinite;
+}
+
+/* ── Luxury fade-up entry ──────────────────────────────────── */
+@keyframes lux-fade-up {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.lux-animate-fade-up {
+  animation: lux-fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* ── Gentle scale entrance ─────────────────────────────────── */
+@keyframes lux-scale-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.lux-animate-scale-in {
+  animation: lux-scale-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* ── Soft shimmer sweep ────────────────────────────────────── */
+@keyframes lux-shimmer-sweep {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.lux-shimmer-text {
+  background: linear-gradient(
+    90deg,
+    var(--accent-bronze) 0%,
+    var(--rosewood) 40%,
+    var(--terracotta) 60%,
+    var(--accent-bronze) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: lux-shimmer-sweep 4s ease-in-out infinite;
+}
+
+/* ── Floating dot pulse ────────────────────────────────────── */
+@keyframes lux-dot-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(166, 90, 62, 0.25); }
+  50%      { box-shadow: 0 0 0 5px rgba(166, 90, 62, 0); }
+}
+
+.lux-dot-pulse {
+  animation: lux-dot-pulse 2s ease-in-out infinite;
+}
+
+/* ── Reduced motion ────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .shimmer-surface {
+    animation: none;
+    background: #efeae2;
+  }
+  .fernhollow-scroll-line {
+    animation: none;
+    transform: scaleY(1);
+    opacity: 0.75;
+  }
+  .lux-animate-fade-up,
+  .lux-animate-scale-in,
+  .lux-shimmer-text,
+  .lux-dot-pulse {
+    animation: none;
+  }
+  .lux-underline-reveal::after {
+    transition: none;
+  }
+  .lux-tilt-hover,
+  .lux-gold-border-glow {
+    transition: none;
+  }
+}
+
+/* ── LuxeIndex luxury depth utilities (additive) ───────────── */
+
+/* Elegant underline reveal on hover */
+.lux-underline-reveal {
+  position: relative;
+}
+.lux-underline-reveal::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(90deg, var(--lux-blush), var(--lux-gold));
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.lux-underline-reveal:hover::after,
+.lux-underline-reveal:focus-visible::after {
+  transform: scaleX(1);
+}
+
+/* Gold border glow on hover */
+.lux-gold-border-glow {
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+.lux-gold-border-glow:hover {
+  border-color: var(--lux-border-gold);
+  box-shadow: var(--lux-shadow-gold);
+}
+
+/* Subtle tilt on hover */
+.lux-tilt-hover {
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.lux-tilt-hover:hover {
+  transform: translateY(-2px);
+}
+
+/* Glass-morphism panel for dark editorial sections */
+.lux-glass-dark {
+  background: rgba(31, 27, 24, 0.72);
+  backdrop-filter: blur(12px) saturate(140%);
+  border: 1px solid var(--lux-border-soft);
+}
+
+/* Text gradient — gold */
+.lux-text-gold-gradient {
+  background: var(--lux-gradient-gold);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Serif display kerning */
+.lux-serif-display {
+  letter-spacing: -0.03em;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+/* Focus ring — consistent luxury tone */
+.lux-focus-ring:focus-visible {
+  outline: 2px solid var(--lux-gold);
+  outline-offset: 2px;
+}

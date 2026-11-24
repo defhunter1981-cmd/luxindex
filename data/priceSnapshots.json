@@ -1,0 +1,898 @@
+{
+  "the-ordinary-niacinamide-10-zinc-1::INR": [
+    {
+      "timestamp": "2026-11-12T10:50:15.625Z",
+      "date": "Nov 12",
+      "price": 228,
+      "highPrice": 1100,
+      "currency": "INR",
+      "bestRetailer": "Flipkart",
+      "offerCount": 6,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:04:34.967Z",
+      "date": "Nov 12",
+      "price": 299,
+      "highPrice": 3747,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 8,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:07:48.125Z",
+      "date": "Nov 12",
+      "price": 1459,
+      "highPrice": 2941.28,
+      "currency": "INR",
+      "bestRetailer": "Ubuy",
+      "offerCount": 2,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:15:02.721Z",
+      "date": "Nov 12",
+      "price": 228,
+      "highPrice": 11904,
+      "currency": "INR",
+      "bestRetailer": "Flipkart",
+      "offerCount": 3,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:22:00.172Z",
+      "date": "Nov 12",
+      "price": 600,
+      "highPrice": 11904,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 6,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T21:08:38.424Z",
+      "date": "Nov 13",
+      "price": 600,
+      "highPrice": 2410,
+      "currency": "INR",
+      "bestRetailer": "Myntra",
+      "offerCount": 5,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-13T07:50:56.514Z",
+      "date": "Nov 13",
+      "price": 570,
+      "highPrice": 1916.71,
+      "currency": "INR",
+      "bestRetailer": "Lush beauty mart",
+      "offerCount": 4,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "the-ordinary-niacinamide-10-zinc-1::USD": [
+    {
+      "timestamp": "2026-11-12T10:51:37.719Z",
+      "date": "Nov 12",
+      "price": 6,
+      "highPrice": 13.12,
+      "currency": "USD",
+      "bestRetailer": "Ulta Beauty",
+      "offerCount": 6,
+      "productName": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "zzzxxyyynotaproduct9999::INR": [
+    {
+      "timestamp": "2026-11-12T10:51:39.401Z",
+      "date": "Nov 12",
+      "price": 251,
+      "highPrice": 251,
+      "currency": "INR",
+      "bestRetailer": "Zepto",
+      "offerCount": 1,
+      "productName": "Bloomsybox Zz Plant",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "sunscreen::INR": [
+    {
+      "timestamp": "2026-11-12T10:52:18.105Z",
+      "date": "Nov 12",
+      "price": 120,
+      "highPrice": 359,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 6,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "cosrx-advanced-snail-96-mucin::INR": [
+    {
+      "timestamp": "2026-11-12T10:55:24.426Z",
+      "date": "Nov 12",
+      "price": 449,
+      "highPrice": 1087,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 4,
+      "productName": "Cosrx Advanced Snail 96 Mucin Power Essence (100ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:07:46.227Z",
+      "date": "Nov 12",
+      "price": 870,
+      "highPrice": 1450,
+      "currency": "INR",
+      "bestRetailer": "Maccaron",
+      "offerCount": 6,
+      "productName": "Cosrx Advanced Snail 96 Mucin Power Essence (100ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "laneige-lip-sleeping-mask-berry::INR": [
+    {
+      "timestamp": "2026-11-12T11:04:38.621Z",
+      "date": "Nov 12",
+      "price": 600,
+      "highPrice": 1723.6,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 8,
+      "productName": "Laneige Lip Sleeping Mask - Berry (20g)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "cerave-hydrating-cleanser::INR": [
+    {
+      "timestamp": "2026-11-12T11:04:57.341Z",
+      "date": "Nov 12",
+      "price": 150,
+      "highPrice": 10353,
+      "currency": "INR",
+      "bestRetailer": "Meesho",
+      "offerCount": 8,
+      "productName": "CeraVe Hydrating Facial Cleanser for Normal to Dry Skin (236ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:08:11.240Z",
+      "date": "Nov 12",
+      "price": 703,
+      "highPrice": 11433,
+      "currency": "INR",
+      "bestRetailer": "Flipkart",
+      "offerCount": 7,
+      "productName": "CeraVe Hydrating Facial Cleanser for Normal to Dry Skin (236ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "estee-lauder-advanced-night-repair::INR": [
+    {
+      "timestamp": "2026-11-12T11:05:20.337Z",
+      "date": "Nov 12",
+      "price": 283,
+      "highPrice": 9500,
+      "currency": "INR",
+      "bestRetailer": "Meesho",
+      "offerCount": 8,
+      "productName": "Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:08:17.862Z",
+      "date": "Nov 12",
+      "price": 5600,
+      "highPrice": 10181.73,
+      "currency": "INR",
+      "bestRetailer": "Aashu Cosmetix",
+      "offerCount": 8,
+      "productName": "Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:10:34.508Z",
+      "date": "Nov 12",
+      "price": 3600,
+      "highPrice": 38979.7,
+      "currency": "INR",
+      "bestRetailer": "Raja Ram Jain Cosmetics Store",
+      "offerCount": 8,
+      "productName": "Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T11:14:45.863Z",
+      "date": "Nov 12",
+      "price": 8195.5,
+      "highPrice": 38979.7,
+      "currency": "INR",
+      "bestRetailer": "Strawberrynet",
+      "offerCount": 2,
+      "productName": "Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "serp-9619056927109867::INR": [
+    {
+      "timestamp": "2026-11-12T11:24:55.258Z",
+      "date": "Nov 12",
+      "price": 237,
+      "highPrice": 378,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 3,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "undefined::INR": [
+    {
+      "timestamp": "2026-11-12T11:33:22.218Z",
+      "date": "Nov 12",
+      "price": 239,
+      "highPrice": 3314,
+      "currency": "INR",
+      "bestRetailer": "Flipkart",
+      "offerCount": 5,
+      "productName": "Undefined",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "la-roche-posay-anthelios-spf50::INR": [
+    {
+      "timestamp": "2026-11-12T11:35:09.051Z",
+      "date": "Nov 12",
+      "price": 295,
+      "highPrice": 763,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 8,
+      "productName": "La Roche-Posay Anthelios UVmune 400 Invisible Fluid SPF 50+ (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T22:51:15.193Z",
+      "date": "Nov 13",
+      "price": 1190,
+      "highPrice": 3400,
+      "currency": "INR",
+      "bestRetailer": "Apollo 247",
+      "offerCount": 6,
+      "productName": "La Roche-Posay Anthelios UVmune 400 Invisible Fluid SPF 50+ (50ml)",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "hyphen-all-i-need-sunscreen-spf-50-pa-2b-2b-2b-2b-15ml::INR": [
+    {
+      "timestamp": "2026-11-12T11:37:32.910Z",
+      "date": "Nov 12",
+      "price": 295,
+      "highPrice": 763,
+      "currency": "INR",
+      "bestRetailer": "Amazon Luxury",
+      "offerCount": 8,
+      "productName": "HYPHEN All I Need Sunscreen SPF 50 PA++++ 15ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "serp-13287034559974930823::INR": [
+    {
+      "timestamp": "2026-11-12T11:37:36.976Z",
+      "date": "Nov 12",
+      "price": 5525,
+      "highPrice": 6500,
+      "currency": "INR",
+      "bestRetailer": "Sephora",
+      "offerCount": 3,
+      "productName": "Estée Lauder Advanced Night Repair Synchronized Multi-Recovery Complex",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "serp-11531574447973348767::INR": [
+    {
+      "timestamp": "2026-11-12T11:38:55.661Z",
+      "date": "Nov 12",
+      "price": 278,
+      "highPrice": 281,
+      "currency": "INR",
+      "bestRetailer": "Ajio Luxe",
+      "offerCount": 2,
+      "productName": "Aqualogica Glow+ Dewy Sunscreen SPF 50+ PA++++",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "neutrogena-sunscreen-spf-50-pa-2b-2b-2b-2b-ultra-sheer-dry-touch-sunblock::INR": [
+    {
+      "timestamp": "2026-11-12T12:29:15.593Z",
+      "date": "Nov 12",
+      "price": 67,
+      "highPrice": 4306,
+      "currency": "INR",
+      "bestRetailer": "Flipkart",
+      "offerCount": 3,
+      "productName": "Neutrogena Sunscreen - Spf 50 Pa++++ Ultra Sheer Dry-touch Sunblock| Water And Sweat Resistant| No White Cast",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-sunscreen::INR": [
+    {
+      "timestamp": "2026-11-12T12:30:38.540Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 599,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 8,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T13:03:02.752Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 8,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T13:39:17.074Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 899,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 8,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T14:08:22.014Z",
+      "date": "Nov 12",
+      "price": 474.1,
+      "highPrice": 899,
+      "currency": "INR",
+      "bestRetailer": "Apollo 247",
+      "offerCount": 4,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "deconstruct-lightweight-gel-sunscreen-nosize-nospf-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T12:34:37.667Z",
+      "date": "Nov 12",
+      "price": 332,
+      "highPrice": 332,
+      "currency": "INR",
+      "bestRetailer": "[object Object]",
+      "offerCount": 1,
+      "productName": "Deconstruct Lightweight Gel Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-light-fluid-sunscreen-50ml-spf-50-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T13:02:42.320Z",
+      "date": "Nov 12",
+      "price": 360,
+      "highPrice": 474.1,
+      "currency": "INR",
+      "bestRetailer": "DawaaDost",
+      "offerCount": 2,
+      "productName": "Minimalist SPF 50 Light Fluid Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T13:50:38.584Z",
+      "date": "Nov 12",
+      "price": 349,
+      "highPrice": 499,
+      "currency": "INR",
+      "bestRetailer": "Tata 1mg",
+      "offerCount": 4,
+      "productName": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-sunscreen-nosize-spf-50-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T13:02:48.374Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 249,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 4,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T13:38:23.471Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 399,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 6,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T13:49:56.243Z",
+      "date": "Nov 12",
+      "price": 249,
+      "highPrice": 399,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 3,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T14:08:11.449Z",
+      "date": "Nov 12",
+      "price": 399,
+      "highPrice": 399,
+      "currency": "INR",
+      "bestRetailer": "Minimalist",
+      "offerCount": 1,
+      "productName": "Minimalist SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-fixderma-shadow-spf-50-cream-nosize-spf-50-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T13:06:00.185Z",
+      "date": "Nov 12",
+      "price": 388,
+      "highPrice": 650,
+      "currency": "INR",
+      "bestRetailer": "Zepto",
+      "offerCount": 3,
+      "productName": "Minimalist Fixderma Shadow SPF 50+ Cream Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-light-fluid-sunscreen-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T13:16:15.521Z",
+      "date": "Nov 12",
+      "price": 1199,
+      "highPrice": 1199,
+      "currency": "INR",
+      "bestRetailer": "FreeUp",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid Sunscreen SPF 50 PA 9",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-sunscreen-50ml-spf-50-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T13:33:49.886Z",
+      "date": "Nov 12",
+      "price": 349,
+      "highPrice": 474.1,
+      "currency": "INR",
+      "bestRetailer": "Ajio Luxe",
+      "offerCount": 2,
+      "productName": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-10-vitamin-b5-oil-free-nosize-nospf-10::INR": [
+    {
+      "timestamp": "2026-11-12T13:35:14.827Z",
+      "date": "Nov 12",
+      "price": 286,
+      "highPrice": 349,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 3,
+      "productName": "Minimalist 10% Vitamin B5 Oil Free Moisturizer",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-sunscreen-nosize-spf-50-noconc::INR": [
+    {
+      "timestamp": "2026-11-12T13:38:32.648Z",
+      "date": "Nov 12",
+      "price": 209,
+      "highPrice": 499,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 4,
+      "productName": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    },
+    {
+      "timestamp": "2026-11-12T21:09:06.857Z",
+      "date": "Nov 13",
+      "price": 349,
+      "highPrice": 349,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 3,
+      "productName": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-100ml::INR": [
+    {
+      "timestamp": "2026-11-12T14:08:55.909Z",
+      "date": "Nov 12",
+      "price": 899,
+      "highPrice": 899,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 4,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-sunscreen-spf-50-lightweight-multi-50g-spf-50-noconc-multi-vitamin::INR": [
+    {
+      "timestamp": "2026-11-12T14:09:00.859Z",
+      "date": "Nov 12",
+      "price": 2866,
+      "highPrice": 2866,
+      "currency": "INR",
+      "bestRetailer": "KIWLA",
+      "offerCount": 1,
+      "productName": "Minimalist Sunscreen Spf 50 Lightweight With Multi-Vitamins",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-spf-50-30gm::INR": [
+    {
+      "timestamp": "2026-11-12T14:16:21.208Z",
+      "date": "Nov 12",
+      "price": 199,
+      "highPrice": 199,
+      "currency": "INR",
+      "bestRetailer": "Fliptwirls",
+      "offerCount": 1,
+      "productName": "Minimalist SPF 50 Face Sunscreen",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794498786567-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T15:53:06.644Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794498805228-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T15:53:25.289Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794500218444-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:16:58.504Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794500271924-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:17:51.997Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794501274524-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:34:34.654Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794501954715-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:45:54.806Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502019052-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:46:59.157Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502079432-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:47:59.551Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502087503-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:48:07.579Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502226787-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:50:26.868Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502265355-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:51:05.428Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502448885-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T16:54:08.955Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502858634-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T17:00:58.724Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794502878731-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T17:01:18.801Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794503919301-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T17:18:39.365Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794504539778-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T17:28:59.856Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794504584602-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T17:29:44.687Z",
+      "date": "Nov 12",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "the-derma-co-10-niacinamide-serum-nosize-nospf-10::INR": [
+    {
+      "timestamp": "2026-11-12T21:10:12.180Z",
+      "date": "Nov 13",
+      "price": 187,
+      "highPrice": 187,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 1,
+      "productName": "The Derma Co 10% Niacinamide Serum",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794518343239-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T21:19:03.295Z",
+      "date": "Nov 13",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794519365475-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T21:36:05.583Z",
+      "date": "Nov 13",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794519377377-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T21:36:17.510Z",
+      "date": "Nov 13",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-light-fluid-spf-50-test15a-1794519656190-50ml::INR": [
+    {
+      "timestamp": "2026-11-12T21:40:56.344Z",
+      "date": "Nov 13",
+      "price": 474,
+      "highPrice": 474,
+      "currency": "INR",
+      "bestRetailer": "Nykaa",
+      "offerCount": 1,
+      "productName": "Minimalist Light Fluid SPF 50 Sunscreen 50ml",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "the-derma-co-1-hyaluronic-spf-50-sunscreen-nosize-spf-50-1-aqua-gel::INR": [
+    {
+      "timestamp": "2026-11-12T22:36:12.153Z",
+      "date": "Nov 13",
+      "price": 564,
+      "highPrice": 564,
+      "currency": "INR",
+      "bestRetailer": "DMart Ready",
+      "offerCount": 1,
+      "productName": "The Derma Co 1% Hyaluronic SPF 50 Sunscreen Aqua Gel",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-10-vitamin-c-serum-nosize-nospf-10::INR": [
+    {
+      "timestamp": "2026-11-13T11:50:30.850Z",
+      "date": "Nov 13",
+      "price": 284,
+      "highPrice": 284,
+      "currency": "INR",
+      "bestRetailer": "Purplle",
+      "offerCount": 1,
+      "productName": "Minimalist 10% Vitamin C Face Serum",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ],
+  "minimalist-18-hair-growth-actives-serum-nosize-nospf-18::INR": [
+    {
+      "timestamp": "2026-11-13T11:51:15.733Z",
+      "date": "Nov 13",
+      "price": 607.24,
+      "highPrice": 799,
+      "currency": "INR",
+      "bestRetailer": "PharmEasy",
+      "offerCount": 3,
+      "productName": "Minimalist 18% Hair Growth Actives Hair Serum",
+      "dataSource": "LIVE_OBSERVED"
+    }
+  ]
+}

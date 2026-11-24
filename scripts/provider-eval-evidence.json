@@ -1,0 +1,1321 @@
+{
+  "generatedAt": "2026-11-12T12:15:55.020Z",
+  "queries": [
+    "sunscreen India",
+    "Minimalist SPF 50 sunscreen",
+    "vitamin C serum India",
+    "Neutrogena sunscreen"
+  ],
+  "results": {
+    "sunscreen India": [
+      {
+        "provider": "SerpApi",
+        "endpoint": "GET /search.json?engine=google_shopping&gl=in&hl=en&direct_link=true",
+        "httpStatus": 200,
+        "latencyMs": 390,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "shopping_results",
+          "categorized_shopping_results",
+          "filters"
+        ],
+        "resultType": "Google Shopping Merchant Listings",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 1.13,
+          "categorizedBlocks": 3,
+          "filtersCount": 11,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 23,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 27,
+          "withImmersiveTokenCount": 40,
+          "sampleItems": [
+            {
+              "title": "Minimalist SPF 50 Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹237",
+              "parsedAmountInr": 237,
+              "merchant": "Purplle.com - Purplle Shopping",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen India&prds=catalogid:9619056927109867,productid:3903134173501374517,headlineOfferDocid:15763534246792355712,imageDocid:15914861787506492930,rds:PC_5409930568209330484|PROD_PC_5409930568209330484,gpcid:5409930568209330484,mid:576462862119305155,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQRSsL1nK4BBQtxm0f37Sw0xMH3ZDM3Fs6q...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 4.2,
+              "reviews": 6400,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel",
+              "brand": "re'equil",
+              "rawPrice": "₹580.50",
+              "parsedAmountInr": 580.5,
+              "merchant": "Re'equil",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen India&prds=catalogid:11025672868353804453,productid:5332554573368679934,headlineOfferDocid:3956712892334574336,imageDocid:895325108111448753,rds:PC_298222776741786084|PROD_PC_298222776741786084,gpcid:298222776741786084,mid:576462400269717744,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS4eAUMox42VZ_CPSgasfzX6gF-hW3r0Vi-...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 4.6,
+              "reviews": 441,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Himalaya Protective Sunscreen Lotion",
+              "brand": null,
+              "rawPrice": "₹143",
+              "parsedAmountInr": 143,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen India&prds=catalogid:6515466424843187228,productid:6567510455549966945,headlineOfferDocid:16477079001819341712,imageDocid:15394357526236538527,rds:PC_4877993752334841535|PROD_PC_4877993752334841535,gpcid:4877993752334841535,mid:576462575840797114,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7x540d9C7HqxoFAH6tLT6hnKllSOSj0Fc...",
+              "availabilityOrDelivery": null,
+              "rating": 4.4,
+              "reviews": 268,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Dr. Sheth's Ceramide & Vitamin C Sunscreen",
+              "brand": "dr. sheth",
+              "rawPrice": "₹284",
+              "parsedAmountInr": 284,
+              "merchant": "Nykaa",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen India&prds=catalogid:2784929002456194491,productid:5584057699923228586,headlineOfferDocid:7115855209451420439,imageDocid:12673639664546291680,rds:PC_535132875398281772|PROD_PC_535132875398281772,gpcid:535132875398281772,mid:576462915362335473,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIUwkpNwA-8YYQZ5zy3Ipb6ojvp2YWq_lP...",
+              "availabilityOrDelivery": "Free delivery on ₹299+",
+              "rating": 4.5,
+              "reviews": 610,
+              "hasImmersiveToken": true
+            }
+          ]
+        }
+      },
+      {
+        "provider": "Serper",
+        "endpoint": "POST https://google.serper.dev/shopping (gl=in, hl=en, num=40)",
+        "httpStatus": 200,
+        "latencyMs": 2894,
+        "topLevelKeys": [
+          "searchParameters",
+          "shopping",
+          "credits"
+        ],
+        "resultType": "Google Shopping Cards (data.shopping)",
+        "quotaHeaders": {
+          "x-ratelimit-limit": "25",
+          "x-ratelimit-remaining": "24",
+          "x-ratelimit-reset": "1794485760"
+        },
+        "providerMeta": {
+          "creditsUsed": 2,
+          "searchParameters": {
+            "q": "sunscreen India",
+            "gl": "in",
+            "hl": "en",
+            "type": "shopping",
+            "num": 40,
+            "page": 1,
+            "engine": "google"
+          },
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 27,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 39,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 1,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Minimalist SPF 50 Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹237",
+              "parsedAmountInr": 237,
+              "merchant": "Purplle.com - Purplle Shopping",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=localAnnotatedOfferId:1,catalogid:9619056927109867,gpcid:5409930568209330484,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEOi_5t0EgvBYXTChgHlJi_WRYTDhK-0wI...",
+              "availabilityOrDelivery": null,
+              "rating": 4.2,
+              "reviews": 6400,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Re'equil Sunscreen SPF 50 PA++++ Ultra Matte Dry Touch Gel",
+              "brand": "re'equil",
+              "rawPrice": "₹580.50",
+              "parsedAmountInr": 580.5,
+              "merchant": "Re'equil",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=localAnnotatedOfferId:1,catalogid:11025672868353804453,gpcid:298222776741786084,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSCfuA15obDAYcVngVlKyN67IHj_gBbH2Zk...",
+              "availabilityOrDelivery": null,
+              "rating": 4.6,
+              "reviews": 441,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Dr. Sheth's Ceramide & Vitamin C Sunscreen",
+              "brand": "dr. sheth",
+              "rawPrice": "₹395",
+              "parsedAmountInr": 395,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=localAnnotatedOfferId:1,catalogid:1594327483960173325,gpcid:535132875398281772,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREWoY6iLhVPunghySMOnr7JDhMCgJYfLkc...",
+              "availabilityOrDelivery": null,
+              "rating": 4.4,
+              "reviews": 1200,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Brinton UV Doux Silicone Sunscreen Gel SPF 50 PA+++",
+              "brand": "uv doux",
+              "rawPrice": "₹761",
+              "parsedAmountInr": 761,
+              "merchant": "Nykaa",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=localAnnotatedOfferId:1,catalogid:15757849530704027642,gpcid:6412884275086063743,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQjYVGfoW75fbgJ58gNKcp5AXY4jVjnDIxB...",
+              "availabilityOrDelivery": null,
+              "rating": 4.7,
+              "reviews": 524,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "SearchApi",
+        "endpoint": "GET /api/v1/search?engine=google_shopping&gl=in&hl=en&link=resolved",
+        "httpStatus": 200,
+        "latencyMs": 4177,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "filters",
+          "shopping_results",
+          "categorized_shopping_results",
+          "all_filters_token"
+        ],
+        "resultType": "Google Shopping Merchant Listings (data.shopping_results)",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 2.92,
+          "filtersCount": 10,
+          "hasPagination": false,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 30,
+          "duplicateTitles": 10,
+          "duplicateMerchantTitle": 5,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 25,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 38,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50++++ 03 Sand 50 ml(Face Sunscreen)",
+              "brand": "dot & key",
+              "rawPrice": "₹489",
+              "parsedAmountInr": 489,
+              "merchant": "Purplle.com - Purplle Shopping",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=headlineOfferDocid:11958592070210661487,imageDocid:15217768050060841689,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRW7KTHfNpTMck2kVPAv_ks3nMy4e7ij7FG...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 5,
+              "reviews": 2900,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50++++ 03 Sand 50 ml(Face Sunscreen)",
+              "brand": "dot & key",
+              "rawPrice": "₹489",
+              "parsedAmountInr": 489,
+              "merchant": "Purplle.com - Purplle Shopping",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=headlineOfferDocid:15201513329580608468,imageDocid:15217768050060841689,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRW7KTHfNpTMck2kVPAv_ks3nMy4e7ij7FG...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 5,
+              "reviews": 2900,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50++++ 03 Sand 50 ml(Face Sunscreen)",
+              "brand": "dot & key",
+              "rawPrice": "₹488",
+              "parsedAmountInr": 488,
+              "merchant": "Purplle.com - Beauty Online",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=headlineOfferDocid:6292750608679070787,imageDocid:15217768050060841689,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRW7KTHfNpTMck2kVPAv_ks3nMy4e7ij7FG...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 5,
+              "reviews": 2900,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50++++ 03 Sand 50 ml(Face Sunscreen)",
+              "brand": "dot & key",
+              "rawPrice": "₹488",
+              "parsedAmountInr": 488,
+              "merchant": "Purplle.com - Beauty Online",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=sunscreen+India&prds=headlineOfferDocid:14830171877172006011,imageDocid:15217768050060841689,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRW7KTHfNpTMck2kVPAv_ks3nMy4e7ij7FG...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 5,
+              "reviews": 2900,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "HasData",
+        "endpoint": "GET /scrape/google/shopping?gl=in&hl=en",
+        "httpStatus": 403,
+        "latencyMs": 2041,
+        "topLevelKeys": [
+          "status",
+          "code",
+          "message"
+        ],
+        "resultType": "Empty / Error",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "error",
+          "filtersCount": 0,
+          "error": "Your account is under review. Contact support if you need access sooner."
+        },
+        "metrics": {
+          "totalItems": 0,
+          "uniqueTitles": 0,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 0,
+          "relevancePct": 0,
+          "withBrandCount": 0,
+          "withInrPriceCount": 0,
+          "withMerchantCount": 0,
+          "withImageCount": 0,
+          "googleThumbProxyCount": 0,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 0,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": []
+        }
+      }
+    ],
+    "Minimalist SPF 50 sunscreen": [
+      {
+        "provider": "SerpApi",
+        "endpoint": "GET /search.json?engine=google_shopping&gl=in&hl=en&direct_link=true",
+        "httpStatus": 200,
+        "latencyMs": 374,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "shopping_results",
+          "categorized_shopping_results",
+          "filters"
+        ],
+        "resultType": "Google Shopping Merchant Listings",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 0.54,
+          "categorizedBlocks": 3,
+          "filtersCount": 11,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 0,
+          "relevancePct": 0,
+          "withBrandCount": 4,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 20,
+          "withImmersiveTokenCount": 40,
+          "sampleItems": [
+            {
+              "title": "GLUTANEX Sun Stick SPF 50+ PA++++ with Glutathione",
+              "brand": null,
+              "rawPrice": "₹5,449",
+              "parsedAmountInr": 5449,
+              "merchant": "desertcart.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist SPF 50 sunscreen&prds=catalogid:4568504738820437862,productid:6004368234409412563,headlineOfferDocid:9437517858876250809,imageDocid:4878466368445249565,gpcid:12302570448865143037,mid:576462453317633601,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3-K5i3p-fW7iErSaCcSLNJQRCfbfdgLkJ...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Bliss Baby Sunscreen Premium SPF 50 Sunscreen Mineral Lotion Natural Zinc Oxide",
+              "brand": null,
+              "rawPrice": "₹1,663",
+              "parsedAmountInr": 1663,
+              "merchant": "ubuy.co.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist SPF 50 sunscreen&prds=catalogid:10724222976845036277,productid:18028716601919904220,headlineOfferDocid:12798769237740677882,imageDocid:6924810670194811439,rds:PC_6679761688535739073|PROD_PC_6679761688535739073,gpcid:6679761688535739073,mid:576462503458266897,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQFiphbS3WKGIYmvlEU1yF38PTyEeYHZ1Y1...",
+              "availabilityOrDelivery": null,
+              "rating": 4.3,
+              "reviews": 263,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Atomy Sun Cream",
+              "brand": null,
+              "rawPrice": "₹1,104",
+              "parsedAmountInr": 1104,
+              "merchant": "nourishmyself",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist SPF 50 sunscreen&prds=catalogid:9714312853763447723,productid:4384659754652623040,headlineOfferDocid:15914674392284977586,imageDocid:16364371537882067817,rds:PC_7912420600227975061|PROD_PC_7912420600227975061,gpcid:7912420600227975061,mid:576462574873738356,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHuC_YIDHq8oOyu56mILJt3iis7pm1ftKq...",
+              "availabilityOrDelivery": null,
+              "rating": 5,
+              "reviews": 376,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Lancaster Sun Sensitive Oil-Free Milky Fluid SPF50 50ml",
+              "brand": null,
+              "rawPrice": "₹3,152",
+              "parsedAmountInr": 3152,
+              "merchant": "Strawberrynet.com",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist SPF 50 sunscreen&prds=catalogid:2587793123034908971,productid:9665295422146610024,headlineOfferDocid:17354533806465811585,imageDocid:7565938283005578128,rds:PC_17999525107433868336|PROD_PC_17999525107433868336,gpcid:17999525107433868336,mid:576462892373946908,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjRpCPRkLOu3NSTPD4pZL6Gc7u3zuo9K0U...",
+              "availabilityOrDelivery": null,
+              "rating": 2.8,
+              "reviews": 715,
+              "hasImmersiveToken": true
+            }
+          ]
+        }
+      },
+      {
+        "provider": "Serper",
+        "endpoint": "POST https://google.serper.dev/shopping (gl=in, hl=en, num=40)",
+        "httpStatus": 200,
+        "latencyMs": 2158,
+        "topLevelKeys": [
+          "searchParameters",
+          "shopping",
+          "credits"
+        ],
+        "resultType": "Google Shopping Cards (data.shopping)",
+        "quotaHeaders": {
+          "x-ratelimit-limit": "25",
+          "x-ratelimit-remaining": "24",
+          "x-ratelimit-reset": "1794485765"
+        },
+        "providerMeta": {
+          "creditsUsed": 2,
+          "searchParameters": {
+            "q": "Minimalist SPF 50 sunscreen",
+            "gl": "in",
+            "hl": "en",
+            "type": "shopping",
+            "num": 40,
+            "page": 1,
+            "engine": "google"
+          },
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 36,
+          "relevancePct": 90,
+          "withBrandCount": 39,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 6,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 34,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Minimalist SPF 50 Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹399",
+              "parsedAmountInr": 399,
+              "merchant": "Minimalist",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist+SPF+50+sunscreen&prds=localAnnotatedOfferId:1,catalogid:9619056927109867,gpcid:5409930568209330484,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRxdrhXGv5HhpJ1731WrpIWailiKG7pfFiV...",
+              "availabilityOrDelivery": null,
+              "rating": 4.2,
+              "reviews": 6400,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Minimalist Light Fluid SPF 50 Face Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹499",
+              "parsedAmountInr": 499,
+              "merchant": "Minimalist",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist+SPF+50+sunscreen&prds=localAnnotatedOfferId:1,catalogid:17446867799431403269,gpcid:4905494667631262945,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQb3trZV238vcgZCantS0w_jsjKkW7KHlOx...",
+              "availabilityOrDelivery": null,
+              "rating": 4.4,
+              "reviews": 921,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Minimalist Light Fluid SPF 50 Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹899",
+              "parsedAmountInr": 899,
+              "merchant": "Minimalist",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist+SPF+50+sunscreen&prds=localAnnotatedOfferId:1,catalogid:944034313621586422,gpcid:7080815311979749800,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCNxZzXoYofyOUI7NZ0CEnN0mOnlQPFeiL...",
+              "availabilityOrDelivery": null,
+              "rating": 4.2,
+              "reviews": 409,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Minimalist SPF 50 Face Sunscreen",
+              "brand": "minimalist",
+              "rawPrice": "₹209",
+              "parsedAmountInr": 209,
+              "merchant": "Purplle.com - Purplle Shop",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Minimalist+SPF+50+sunscreen&prds=localAnnotatedOfferId:1,catalogid:17970867615910469282,gpcid:1871123503941243717,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6UzI5N25AFe_QcNqCu8pQYF5vXG587Yrh...",
+              "availabilityOrDelivery": null,
+              "rating": 4.2,
+              "reviews": 6400,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "SearchApi",
+        "error": "The operation was aborted due to timeout"
+      },
+      {
+        "provider": "HasData",
+        "endpoint": "GET /scrape/google/shopping?gl=in&hl=en",
+        "httpStatus": 403,
+        "latencyMs": 626,
+        "topLevelKeys": [
+          "status",
+          "code",
+          "message"
+        ],
+        "resultType": "Empty / Error",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "error",
+          "filtersCount": 0,
+          "error": "Your account is under review. Contact support if you need access sooner."
+        },
+        "metrics": {
+          "totalItems": 0,
+          "uniqueTitles": 0,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 0,
+          "relevancePct": 0,
+          "withBrandCount": 0,
+          "withInrPriceCount": 0,
+          "withMerchantCount": 0,
+          "withImageCount": 0,
+          "googleThumbProxyCount": 0,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 0,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": []
+        }
+      }
+    ],
+    "vitamin C serum India": [
+      {
+        "provider": "SerpApi",
+        "endpoint": "GET /search.json?engine=google_shopping&gl=in&hl=en&direct_link=true",
+        "httpStatus": 200,
+        "latencyMs": 450,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "shopping_results",
+          "categorized_shopping_results",
+          "filters"
+        ],
+        "resultType": "Google Shopping Merchant Listings",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 1.29,
+          "categorizedBlocks": 3,
+          "filtersCount": 13,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 35,
+          "duplicateTitles": 5,
+          "duplicateMerchantTitle": 2,
+          "relevantCount": 36,
+          "relevancePct": 90,
+          "withBrandCount": 23,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 39,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 28,
+          "withImmersiveTokenCount": 39,
+          "sampleItems": [
+            {
+              "title": "Minimalist Lightweight Face Serum: Heal & Strengthen Skin Barrier, Unisex Formula!",
+              "brand": "minimalist",
+              "rawPrice": "₹284",
+              "parsedAmountInr": 284,
+              "merchant": "Purplle.com - Purplle- MP",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin C serum India&prds=productid:13837988579721610836,headlineOfferDocid:13837988579721610836,imageDocid:9412287953773586274,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSZRiE-IQjGgu68avAl2dAFnEhHIiI0G3wa...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Clinq OL-Season Vitamin C Body Lotion, 200 ml",
+              "brand": null,
+              "rawPrice": "₹739",
+              "parsedAmountInr": 739,
+              "merchant": "Clinikally",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin C serum India&prds=productid:17464960995907531804,headlineOfferDocid:17464960995907531804,imageDocid:13422427178983528364,rds:LO_17464960995907531804|PROD_LO_17464960995907531804,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkNwcn7dpQuonj4F-Mo6jnEEFLlkMVCKgJ...",
+              "availabilityOrDelivery": "Free delivery by Sat",
+              "rating": 5,
+              "reviews": 113,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "SeoulCeuticals Korean Skin Care 20% Vitamin C Hyaluronic Acid Serum + CE Ferulic Acid",
+              "brand": null,
+              "rawPrice": "₹2,490",
+              "parsedAmountInr": 2490,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin C serum India&prds=catalogid:2714169105911436980,productid:14701437971357557743,headlineOfferDocid:9940450278775925282,imageDocid:14431340694735780839,rds:PC_8963299444411519801|PROD_PC_8963299444411519801,gpcid:8963299444411519801,mid:576462497459502384,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4oxM88sVi4xVPrqgfjOJBXoKHYVO3NodC...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 4.1,
+              "reviews": 989,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Arencia Vitamin C Booster Shot",
+              "brand": null,
+              "rawPrice": "₹1,710",
+              "parsedAmountInr": 1710,
+              "merchant": "Nykaa Now",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin C serum India&prds=catalogid:10155202337003699649,productid:13717497878002776164,headlineOfferDocid:12949768865838778735,imageDocid:10532921334325707040,rds:PC_4831545116647356814|PROD_PC_4831545116647356814,gpcid:4831545116647356814,mid:576462870958601296,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBFA8c1EOqs-RXCDdXNkYg9zL-CzifhUPH...",
+              "availabilityOrDelivery": "Free delivery within 2h",
+              "rating": 2.9,
+              "reviews": 4100,
+              "hasImmersiveToken": true
+            }
+          ]
+        }
+      },
+      {
+        "provider": "Serper",
+        "endpoint": "POST https://google.serper.dev/shopping (gl=in, hl=en, num=40)",
+        "httpStatus": 200,
+        "latencyMs": 2268,
+        "topLevelKeys": [
+          "searchParameters",
+          "shopping",
+          "credits"
+        ],
+        "resultType": "Google Shopping Cards (data.shopping)",
+        "quotaHeaders": {
+          "x-ratelimit-limit": "25",
+          "x-ratelimit-remaining": "24",
+          "x-ratelimit-reset": "1794485780"
+        },
+        "providerMeta": {
+          "creditsUsed": 2,
+          "searchParameters": {
+            "q": "vitamin C serum India",
+            "gl": "in",
+            "hl": "en",
+            "type": "shopping",
+            "num": 40,
+            "page": 1,
+            "engine": "google"
+          },
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 13,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 30,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 10,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "WishCare Super Bright C16 Vitamin C Face Serum for Glowing Skin Reduces Pigmentation",
+              "brand": "wishcare",
+              "rawPrice": "₹695",
+              "parsedAmountInr": 695,
+              "merchant": "WishCare",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=localAnnotatedOfferId:1,catalogid:589087982150686268,gpcid:11234478590690947609,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxkPgSSusL1FSlZrd1gFe8xoGgMBUZtGsT...",
+              "availabilityOrDelivery": null,
+              "rating": 4.2,
+              "reviews": 935,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Plum 10% Vitamin C & Calendula Barrier Boosting + Glow Serum",
+              "brand": "plum",
+              "rawPrice": "₹499",
+              "parsedAmountInr": 499,
+              "merchant": "Tata CLiQ Fashion",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=localAnnotatedOfferId:1,catalogid:799375259916989140,gpcid:18057324801304960665,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0u_0JeCdNMJW1DkTcXTuhGxLCTkLOS1I9...",
+              "availabilityOrDelivery": null,
+              "rating": 4.3,
+              "reviews": 524,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Minimalist 10 Vitamin C Face Serum Brightens Skin",
+              "brand": "minimalist",
+              "rawPrice": "₹629",
+              "parsedAmountInr": 629,
+              "merchant": "1mg",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQEZES3ThVBQOWrliWHbwU-T_sUWXTagXYc...",
+              "availabilityOrDelivery": null,
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Minimalist Vitamin C + E + Ferulic 16% Face Serum",
+              "brand": "minimalist",
+              "rawPrice": "₹349",
+              "parsedAmountInr": 349,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=localAnnotatedOfferId:1,catalogid:15737551642746906560,gpcid:7984157015697076720,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ6zqKvyI5hdigkV8gvEPAtTzDxkyyK1U4t...",
+              "availabilityOrDelivery": null,
+              "rating": 4.3,
+              "reviews": 1800,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "SearchApi",
+        "endpoint": "GET /api/v1/search?engine=google_shopping&gl=in&hl=en&link=resolved",
+        "httpStatus": 200,
+        "latencyMs": 2179,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "filters",
+          "shopping_results",
+          "categorized_shopping_results",
+          "all_filters_token"
+        ],
+        "resultType": "Google Shopping Merchant Listings (data.shopping_results)",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 1.15,
+          "filtersCount": 12,
+          "hasPagination": false,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 33,
+          "duplicateTitles": 7,
+          "duplicateMerchantTitle": 5,
+          "relevantCount": 38,
+          "relevancePct": 95,
+          "withBrandCount": 22,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 39,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 29,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Clinq OL-Season Vitamin C Body Lotion, 200 ml",
+              "brand": null,
+              "rawPrice": "₹739",
+              "parsedAmountInr": 739,
+              "merchant": "Clinikally",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=headlineOfferDocid:17464960995907531804,imageDocid:13422427178983528364,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkNwcn7dpQuonj4F-Mo6jnEEFLlkMVCKgJ...",
+              "availabilityOrDelivery": "Free delivery by Sat",
+              "rating": 5,
+              "reviews": 113,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "SeoulCeuticals Korean Skin Care 20% Vitamin C Hyaluronic Acid Serum + CE Ferulic Acid",
+              "brand": null,
+              "rawPrice": "₹2,490",
+              "parsedAmountInr": 2490,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=catalogid:2714169105911436980,gpcid:8963299444411519801,headlineOfferDocid:9940450278775925282,imageDocid:14431340694735780839,pvo:25,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ4oxM88sVi4xVPrqgfjOJBXoKHYVO3NodC...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 4.1,
+              "reviews": 989,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Arencia Vitamin C Booster Shot",
+              "brand": null,
+              "rawPrice": "₹1,710",
+              "parsedAmountInr": 1710,
+              "merchant": "Nykaa Now",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=catalogid:10155202337003699649,gpcid:4831545116647356814,headlineOfferDocid:12949768865838778735,imageDocid:10532921334325707040,pvo:25,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBFA8c1EOqs-RXCDdXNkYg9zL-CzifhUPH...",
+              "availabilityOrDelivery": "Free delivery within 2h",
+              "rating": 2.9,
+              "reviews": 4100,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Swisscosmed Vitamin C Face Serum For Brighter & Healthier Skin, 30 ml",
+              "brand": null,
+              "rawPrice": "₹699",
+              "parsedAmountInr": 699,
+              "merchant": "Clinikally",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=vitamin+C+serum+India&prds=headlineOfferDocid:18059430934443462613,imageDocid:15959942552873591729,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVfdJO6z8u3Gg5v8QoWVKzYPfnHn0J3znm...",
+              "availabilityOrDelivery": "Free delivery by Sat",
+              "rating": 4.8,
+              "reviews": 1,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "HasData",
+        "endpoint": "GET /scrape/google/shopping?gl=in&hl=en",
+        "httpStatus": 403,
+        "latencyMs": 1192,
+        "topLevelKeys": [
+          "status",
+          "code",
+          "message"
+        ],
+        "resultType": "Empty / Error",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "error",
+          "filtersCount": 0,
+          "error": "Your account is under review. Contact support if you need access sooner."
+        },
+        "metrics": {
+          "totalItems": 0,
+          "uniqueTitles": 0,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 0,
+          "relevancePct": 0,
+          "withBrandCount": 0,
+          "withInrPriceCount": 0,
+          "withMerchantCount": 0,
+          "withImageCount": 0,
+          "googleThumbProxyCount": 0,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 0,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": []
+        }
+      }
+    ],
+    "Neutrogena sunscreen": [
+      {
+        "provider": "SerpApi",
+        "endpoint": "GET /search.json?engine=google_shopping&gl=in&hl=en&direct_link=true",
+        "httpStatus": 200,
+        "latencyMs": 67,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "shopping_results",
+          "categorized_shopping_results",
+          "filters"
+        ],
+        "resultType": "Google Shopping Merchant Listings",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 0.57,
+          "categorizedBlocks": 3,
+          "filtersCount": 15,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 40,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 29,
+          "withImmersiveTokenCount": 40,
+          "sampleItems": [
+            {
+              "title": "Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+",
+              "brand": "neutrogena",
+              "rawPrice": "₹228",
+              "parsedAmountInr": 228,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena sunscreen&prds=catalogid:14760007401992038259,productid:15811753518572460574,headlineOfferDocid:9459081491562796012,imageDocid:10655844283016990776,rds:PC_7220521087754111852|PROD_PC_7220521087754111852,gpcid:14484253703077458559,mid:576462916256709896,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcThEb48NBieTKaWbu7MHMbvje9ioI5SEW7E...",
+              "availabilityOrDelivery": null,
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Neutrogena Sunscreen - Spf 50 Pa++++ Ultra Sheer Dry-touch Sunblock| Water And Sweat Resistant| No White Cast",
+              "brand": "neutrogena",
+              "rawPrice": "₹67",
+              "parsedAmountInr": 67,
+              "merchant": "Flipkart",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena sunscreen&prds=productid:12271553065222295671,headlineOfferDocid:12271553065222295671,imageDocid:2258635806595653534,rds:PC_12204375692771008498|PROD_PC_12204375692771008498,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPOVK_0UV5wRwsDFYhou53nwETWJb3Aspt...",
+              "availabilityOrDelivery": null,
+              "rating": 4.4,
+              "reviews": 10000,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa, Best Beauty Products Online At NYKAA, ...",
+              "brand": "neutrogena",
+              "rawPrice": "₹649",
+              "parsedAmountInr": 649,
+              "merchant": "Nykaa",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena sunscreen&prds=productid:1324223340131814283,headlineOfferDocid:1324223340131814283,imageDocid:12976150214328960070,rds:PC_7220521087754111852|PROD_PC_7220521087754111852,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSkjkQ10hmeOaKzx8OgWJnwvGANkePgGxGD...",
+              "availabilityOrDelivery": "Free next-day delivery",
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": true
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa",
+              "brand": "neutrogena",
+              "rawPrice": "₹285",
+              "parsedAmountInr": 285,
+              "merchant": "Nykaa Man",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena sunscreen&prds=catalogid:4858962497610505696,productid:3224761017226294658,headlineOfferDocid:7796295920960669214,imageDocid:17769755773484276997,gpcid:16064405737934538621,mid:576462517189617464,pvt:hg&hl=en&gl=in&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSmUDRsd1rA6BjiNw8a1gTWeVcsz4odAcFm...",
+              "availabilityOrDelivery": "Free delivery on ₹299+",
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": true
+            }
+          ]
+        }
+      },
+      {
+        "provider": "Serper",
+        "endpoint": "POST https://google.serper.dev/shopping (gl=in, hl=en, num=40)",
+        "httpStatus": 200,
+        "latencyMs": 2037,
+        "topLevelKeys": [
+          "searchParameters",
+          "shopping",
+          "credits"
+        ],
+        "resultType": "Google Shopping Cards (data.shopping)",
+        "quotaHeaders": {
+          "x-ratelimit-limit": "25",
+          "x-ratelimit-remaining": "23",
+          "x-ratelimit-reset": "1794485780"
+        },
+        "providerMeta": {
+          "creditsUsed": 2,
+          "searchParameters": {
+            "q": "Neutrogena sunscreen",
+            "gl": "in",
+            "hl": "en",
+            "type": "shopping",
+            "num": 40,
+            "page": 1,
+            "engine": "google"
+          },
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 40,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 24,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 16,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+",
+              "brand": "neutrogena",
+              "rawPrice": "₹228",
+              "parsedAmountInr": 228,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=localAnnotatedOfferId:1,catalogid:14760007401992038259,gpcid:14484253703077458559,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqdwoXuCtg_S0O-z2kGOTdOW3ei9CBBmdL...",
+              "availabilityOrDelivery": null,
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa, Best Beauty Products Online At NYKAA, ...",
+              "brand": "neutrogena",
+              "rawPrice": "₹649",
+              "parsedAmountInr": 649,
+              "merchant": "Nykaa",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1x44M5xJ6ECGcoW3wocd6IyCYiZ0gt2Nh...",
+              "availabilityOrDelivery": null,
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa",
+              "brand": "neutrogena",
+              "rawPrice": "₹285",
+              "parsedAmountInr": 285,
+              "merchant": "Nykaa Man",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=localAnnotatedOfferId:1,catalogid:4858962497610505696,gpcid:16064405737934538621,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdw0VrHRISVUGy-kia2aTPGS6Pz_4Z_Ljh...",
+              "availabilityOrDelivery": null,
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Hydro Boost Hydrating Fluid SPF 50",
+              "brand": "neutrogena",
+              "rawPrice": "₹865",
+              "parsedAmountInr": 865,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=localAnnotatedOfferId:1,catalogid:13661650067201078531,gpcid:4570413512679514425,pvo:2,pvt:hg&gl=in&udm=28&pvorigin=2",
+              "googleShoppingPageUrl": null,
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ3HlSNtdXjnFdbJRnVEApRFKA3I1MDMkZf...",
+              "availabilityOrDelivery": null,
+              "rating": 4.6,
+              "reviews": 827,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "SearchApi",
+        "endpoint": "GET /api/v1/search?engine=google_shopping&gl=in&hl=en&link=resolved",
+        "httpStatus": 200,
+        "latencyMs": 2738,
+        "topLevelKeys": [
+          "search_metadata",
+          "search_parameters",
+          "search_information",
+          "filters",
+          "shopping_results",
+          "categorized_shopping_results",
+          "all_filters_token"
+        ],
+        "resultType": "Google Shopping Merchant Listings (data.shopping_results)",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "Success",
+          "totalTimeTaken": 2.29,
+          "filtersCount": 14,
+          "hasPagination": false,
+          "error": null
+        },
+        "metrics": {
+          "totalItems": 40,
+          "uniqueTitles": 40,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 40,
+          "relevancePct": 100,
+          "withBrandCount": 40,
+          "withInrPriceCount": 40,
+          "withMerchantCount": 40,
+          "withImageCount": 40,
+          "googleThumbProxyCount": 40,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 40,
+          "withAvailabilityOrDelivery": 31,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": [
+            {
+              "title": "Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+",
+              "brand": "neutrogena",
+              "rawPrice": "₹228",
+              "parsedAmountInr": 228,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=catalogid:14760007401992038259,gpcid:14484253703077458559,headlineOfferDocid:9459081491562796012,imageDocid:10655844283016990776,pvo:25,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0fkUtHy7yhpmFP-FHm2ixywdrRT45OmYO...",
+              "availabilityOrDelivery": null,
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa, Best Beauty Products Online At NYKAA, ...",
+              "brand": "neutrogena",
+              "rawPrice": "₹649",
+              "parsedAmountInr": 649,
+              "merchant": "Nykaa",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=headlineOfferDocid:1324223340131814283,imageDocid:12976150214328960070,pvo:3,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQY8Qf5_Yvt7GqsVBEzCNfrKX0xEvY2lzNV...",
+              "availabilityOrDelivery": "Free next-day delivery",
+              "rating": 4.5,
+              "reviews": 38000,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Ultrasheer SPF50+ PA++++ Ultra Light Moisturizing Face Sunscreen Oily & Sensitive Skin At Nykaa",
+              "brand": "neutrogena",
+              "rawPrice": "₹285",
+              "parsedAmountInr": 285,
+              "merchant": "Nykaa Man",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=catalogid:4858962497610505696,gpcid:16064405737934538621,headlineOfferDocid:7796295920960669214,imageDocid:17769755773484276997,pvo:25,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8XN0OGM1Lx2VXC_OC7oJURzRZOJ84hEOL...",
+              "availabilityOrDelivery": "Free delivery on ₹299+",
+              "rating": null,
+              "reviews": null,
+              "hasImmersiveToken": false
+            },
+            {
+              "title": "Neutrogena Hydro Boost Hydrating Fluid SPF 50",
+              "brand": "neutrogena",
+              "rawPrice": "₹865",
+              "parsedAmountInr": 865,
+              "merchant": "Amazon.in",
+              "candidateDirectUrl": null,
+              "googleShoppingPageUrl": "https://www.google.com/search?ibp=oshop&q=Neutrogena+sunscreen&prds=catalogid:13661650067201078531,gpcid:4570413512679514425,headlineOfferDocid:8890418867796821282,imageDocid:472744599280719027,pvo:25,pvt:hg&gl=in&hl=en&udm=28",
+              "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyqc7TOB6Hl8lLOnk7LVwDVlX9DftNqEj0...",
+              "availabilityOrDelivery": "Free delivery",
+              "rating": 4.6,
+              "reviews": 827,
+              "hasImmersiveToken": false
+            }
+          ]
+        }
+      },
+      {
+        "provider": "HasData",
+        "endpoint": "GET /scrape/google/shopping?gl=in&hl=en",
+        "httpStatus": 403,
+        "latencyMs": 315,
+        "topLevelKeys": [
+          "status",
+          "code",
+          "message"
+        ],
+        "resultType": "Empty / Error",
+        "quotaHeaders": {},
+        "providerMeta": {
+          "status": "error",
+          "filtersCount": 0,
+          "error": "Your account is under review. Contact support if you need access sooner."
+        },
+        "metrics": {
+          "totalItems": 0,
+          "uniqueTitles": 0,
+          "duplicateTitles": 0,
+          "duplicateMerchantTitle": 0,
+          "relevantCount": 0,
+          "relevancePct": 0,
+          "withBrandCount": 0,
+          "withInrPriceCount": 0,
+          "withMerchantCount": 0,
+          "withImageCount": 0,
+          "googleThumbProxyCount": 0,
+          "nonProxyHttpsImgCount": 0,
+          "directMerchantUrlValidCount": 0,
+          "googleRedirectUrlCount": 0,
+          "homepageOrSearchUrlCount": 0,
+          "missingDirectUrlCount": 0,
+          "withAvailabilityOrDelivery": 0,
+          "withImmersiveTokenCount": 0,
+          "sampleItems": []
+        }
+      }
+    ]
+  }
+}
